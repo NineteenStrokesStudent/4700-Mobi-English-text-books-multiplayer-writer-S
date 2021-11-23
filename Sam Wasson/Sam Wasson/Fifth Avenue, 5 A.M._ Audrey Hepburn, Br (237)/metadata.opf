@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94da8cff-ed4c-48df-a008-8d954be9d27d</dc:identifier>
+        <dc:title>Fifth Avenue, 5 A.M.: Audrey Hepburn, Breakfast at Tiffany's, and the Dawn of the Modern Woman</dc:title>
+        <dc:creator opf:file-as="Wasson, Sam" opf:role="aut">Sam Wasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-22T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Audrey Hepburn is an icon like no other, yet the image many of us have of Audrey—dainty, immaculate—is anything but true to life. Here, for the first time, Sam Wasson presents the woman behind the little black dress that rocked the nation in 1961. The first complete account of the making of *Breakfast at Tiffany's*, *Fifth Avenue, 5 A.M.* reveals little-known facts about the cinema classic: Truman Capote desperately wanted Marilyn Monroe for the leading role; director Blake Edwards filmed multiple endings; Hepburn herself felt very conflicted about balancing the roles of mother and movie star. With a colorful cast of characters including Truman Capote, Edith Head, Givenchy, "Moon River" composer Henry Mancini, and, of course, Hepburn herself, Wasson immerses us in the America of the late fifties before Woodstock and birth control, when a not-so-virginal girl by the name of Holly Golightly raised eyebrows across the country, changing fashion, film, and sex for good. Indeed, cultural touchstones like *Sex and the City* owe a debt of gratitude to *Breakfast at Tiffany's*.  
+
+ In this meticulously researched gem of a book, Wasson delivers us from the penthouses of the Upper East Side to the pools of Beverly Hills, presenting *Breakfast at Tiffany's* as we have never seen it before—through the eyes of those who made it. Written with delicious prose and considerable wit, *Fifth Avenue, 5 A.M.* shines new light on a beloved film and its incomparable star.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061774157</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-20T22:39:52.379000+00:00" name="calibre:timestamp"/>
+        <meta content="Fifth Avenue, 5 A.M.: Audrey Hepburn, Breakfast at Tiffany's, and the Dawn of the Modern Woman" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;, &quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

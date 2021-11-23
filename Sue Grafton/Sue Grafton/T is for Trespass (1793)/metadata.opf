@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">763ab464-1fda-470b-a677-849afefee8e3</dc:identifier>
+        <dc:title>T is for Trespass</dc:title>
+        <dc:creator opf:file-as="Grafton, Sue" opf:role="aut">Sue Grafton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-04T05:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+tres¥pass \'trespes\ n: a transgression of law involving one's obligations to God or to one's neighbor; a violation of moral law; an offense; a sin  *-Webster's New International Dictionary*, Second Edition, Unabridged    
+
+In what may be her most unsettling novel to date, Sue Grafton's *T is for Trespass* is also her most direct confrontation with the forces of evil. Beginning slowly with the day-to-day life of a private eye, Grafton suddenly shifts from the voice of Kinsey Millhone to that of Solana Rojas, introducing readers to a chilling sociopath. Rojas is not her birth name. It is an identity she cunningly stole, an identity that gives her access to private caregiving jobs. The true horror of the novel builds with excruciating tension as the reader foresees the awfulness that lies ahead. The suspense lies in whether Millhone will realize what is happening in time to intervene.    
+
+Though set in the late eighties, *T is for Trespass* could not be more topical: identity theft; elder abuse; betrayal of trust; the breakdown in the institutions charged with caring for the weak and the dependent. It reveals a terrifying but all-too-real rip in the social fabric. Once again, Grafton opens up new territory with startling results.</dc:description>
+        <dc:publisher>New York : G. P. Putnam's Sons, c2007.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399154485</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Kinsey Millhone" name="calibre:series"/>
+        <meta content="20" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-29T00:26:47.520000+00:00" name="calibre:timestamp"/>
+        <meta content="T is for Trespass" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

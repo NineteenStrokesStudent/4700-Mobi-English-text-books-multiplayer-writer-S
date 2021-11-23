@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd0e96b8-1bda-4161-9bc9-cdcf94af4689</dc:identifier>
+        <dc:title>The seeker</dc:title>
+        <dc:creator opf:file-as="Hawke, Simon" opf:role="aut">Simon Hawke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-12-01T06:33:01.022000+00:00</dc:date>
+        <dc:description>Trained by the mystical Villichi in the Way of the Druid and the Path of the Preserver, Sorak the elfling sets out to find the mysterious and reclusive wizard known only as the Sage. Guided by a spell scroll and his own tormented inner voices, Sorak must cross a lethal, rock-strewn wasteland no one has ever survived and make his way to Nibenay, where he must seek out the secret Veiled Alliance. Together with Ryana, the beautiful Villichi priestess who has forsworn her vows in order to follow him upon his quest, and the lovely, pampered daughter of a sorcerer-king whom they have stolen from a noble's caravan, Sorak braves the unknown dangers of the wild, Athasian desert... pursued by a cruel, relentless noble who will stop at nothing to regain the princess who was stolen from him.</dc:description>
+        <dc:publisher>TSR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780099454519</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Dark Sun" name="calibre:series"/>
+        <meta content="3.20" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-26T14:48:15.234000+00:00" name="calibre:timestamp"/>
+        <meta content="seeker, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

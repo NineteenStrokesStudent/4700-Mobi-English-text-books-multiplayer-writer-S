@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a810890f-0bf1-49c1-9c95-e63e1e944d5f</dc:identifier>
+        <dc:title>Twilight</dc:title>
+        <dc:creator opf:file-as="Meyer, Stephenie" opf:role="aut">Stephenie Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*About three things I was absolutely positive:First, Edward was a vampire.Second, there was a part of him–and I didn’t know how dominant that part might be–that thirsted for my blood.And third, I was unconditionally and irrevocably in love with him.*“I’D NEVER GIVEN MUCH THOUGHT TO HOW I WOULD DIE– I’d had reason enough in the last few months –but even if I had, I would not have imagined it like this. . . . Surely it was a good way to die, in the place of something else, someone I loved. Noble, even. That ought to count for something.”When Isabella Swan moves to the gloomy town of Forks and meets the mysterious, alluring Edward Cullen, her life takes a thrilling and terrifying turn. With his porcelain skin, golden eyes, mesmerizing voice, and supernatural gifts, Edward is both irresistible and impenetrable. Up until now, he has managed to keep his true identity hidden, but Bella is determined to uncover his dark secret. What Bella doesn’t realize is the closer she gets to him, the more she is putting herself and those around her at risk. And, it might be too late to turn back. . . .Deeply seductive and extraordinarily suspenseful, *Twilight* will have readers riveted right until the very last page is turned.</dc:description>
+        <dc:publisher>Thorndike Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781410413567</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <dc:subject>Fantasy:Vampires</dc:subject>
+        <meta content="Twilight Saga" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-22T13:58:29.122000+00:00" name="calibre:timestamp"/>
+        <meta content="Twilight" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Vampires&quot;, &quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

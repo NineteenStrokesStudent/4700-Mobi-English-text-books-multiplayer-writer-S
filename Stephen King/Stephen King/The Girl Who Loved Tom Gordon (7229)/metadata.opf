@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f79ec8a-3758-47fd-91aa-6259d32c10ee</dc:identifier>
+        <dc:title>The Girl Who Loved Tom Gordon</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-10-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Trisha McFarland is a plucky 9-year-old hiking with her brother and mom, who is grimly determined to give the kids a good time on their weekends together. Trisha's mom is recently divorced, and her brother is feuding with her for moving from Boston to small-town Maine, where classmates razz him. Trisha steps off the trail for a pee and a respite from the bickering. And gets lost.
+    Trisha's odyssey succeeds on several levels. King renders her consciousness of increasing peril beautifully, from the "first minnowy flutter of disquiet" in her guts to her into-the-wild tumbles to her descent into hallucinations, the nicest being her beloved Red Sox baseball pitcher Tom Gordon, whose exploits she listens to on her Walkman. The nature writing is accurate, tense, and sometimes lyrical, from the maddening whine of the no-see-um mosquito to the profound obbligato of the "Subaudible" (Trisha's dad's term for nature's intimations of God). Our identification with Trisha deepens as we learn about her loved ones: Dad, a dreamboat whose beer habit could sink him; loving but stubborn Mom; Trisha's best pal, Pepsi Robichaud, vividly evoked by her colorful sayings ("Don't go all GIRLY on me, McFarland!"). The personal associations triggered by a full moon, the running monologue with which she stays sane--we who have been lost in woods will recognize these things.</dc:description>
+        <dc:publisher>Pocket</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780671042851</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-07T11:03:57.551000+00:00" name="calibre:timestamp"/>
+        <meta content="Girl Who Loved Tom Gordon, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

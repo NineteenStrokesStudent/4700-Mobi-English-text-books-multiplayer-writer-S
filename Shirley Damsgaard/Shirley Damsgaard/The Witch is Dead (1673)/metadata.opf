@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a0c393f-7199-49e4-8531-59f8d12ff280</dc:identifier>
+        <dc:title>The Witch Is Dead</dc:title>
+        <dc:creator opf:file-as="Damsgaard, Shirley" opf:role="aut">Shirley Damsgaard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-09T05:37:52.407000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Life is busier than ever for witch Ophelia Jensen. In addition to her day job at the library, she—with the help of her grandmother Abby—is preparing to officially adopt Tink, the young medium she's taken under her wing. So when Ophelia's elderly Aunt Dot, eager for adventure, wants to investigate the murder of a funeral director in the neighboring town, Ophelia tries to say no. But then Tink's dog pulls a skull out of the woods—a skull that may belong to a murder victim.   Finding mysterious bones in the woods isn't the only strange thing that's happened to Tink lately. She's been having visions of ghastly ghosts imploring her for help. But before Ophelia can connect the apparitions with the murder, Tink is kidnapped! Ophelia and Abby will have to battle a creepy crematorium owner and an invasion from some modern-day body snatchers to find their protégé . . . or else they'll have to hold a séance just to speak to her again.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061147234</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Ophelia and Abby" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-05T03:24:35.367000+00:00" name="calibre:timestamp"/>
+        <meta content="Witch Is Dead, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

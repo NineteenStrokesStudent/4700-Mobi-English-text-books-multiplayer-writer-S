@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bfa0378-9ed2-4757-bc85-37c49ad16557</dc:identifier>
+        <dc:title>Skeleton Crew</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-06-01T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Wonderfully gruesome. (New York Times Book Review)  Delightfully diabolical...King once again proves to be the consummate storyteller. (Associated Press)In the introduction to Skeleton Crew (1985), his second  collection of stories, King pokes fun at his penchant for "literary  elephantiasis," makes scatological jokes about his muse, confesses how  much money he makes (gross and net), and tells a story about getting  arrested one time when he was "suffused with the sort of towering,  righteous rage that only drunk undergraduates can feel." He winds up  with an invitation to a scary voyage: "Grab onto my arm now. Hold  tight. We are going into a number of dark places, but I think I know  the way."
+    And he sure does. Skeleton Crew contains a superb short novel  ("The Mist") that alone is worth the price of admission, plus two  forgettable poems and 20 short stories on such themes as an evil toy  monkey, a human-eating water slick, a machine that avenges murder, and  unnatural creatures that inhabit the thick woods near Castle Rock,  Maine. The short tales range from simply enjoyable to surprisingly  good. 
+    In addition to "The Mist," the real standout is "The Reach," a  beautifully subtle story about a great-grandmother who was born on a  small island off the coast of Maine and has lived there her whole  life. She has never been across "the Reach," the body of water between  island and mainland. This is the story that King fans give to their  friends who don't read horror in order to show them how literate, how  charming a storyteller he can be. Don't miss it. --Fiona  Webster</dc:description>
+        <dc:publisher>Signet Book</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451168610</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="Stephen King Short Story Collection" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-05T21:25:03.322000+00:00" name="calibre:timestamp"/>
+        <meta content="Skeleton Crew" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

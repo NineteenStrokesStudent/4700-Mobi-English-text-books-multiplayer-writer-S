@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6062</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d633577e-9c27-454b-9d94-00ac175d8848</dc:identifier>
+        <dc:title>Against the Tide of Years</dc:title>
+        <dc:creator opf:file-as="Stirling, S. M." opf:role="aut">S. M. Stirling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-04-30T14:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*Against The Tide Of Years* continues the adventures of the Nantucket residents who have been transported through time to the Bronze Age. In the years since their arrival, the fledging Republic of Nantucket has strived to better the primitive world in which they now exist. Their prime concerns are establishing a constitution and handling the waves of immigrants from the British Isles. But a renegade time traveler plans his own future by forging an empire for himself based on conquest by modern technology. The Republic has no alternative but to face the inevitable war brought on by one of their own....  Praise for *Island In The Sea Of Time*:  "...one of the best time/travel alternate history stories I've ever read, period. Stirling combines complex, believable characters, meticulous research, and a fascinating setup to produce a book you won't want to--and won't be able to--put down." --Harry Turtledove, bestselling author of *Guns of the South*  "...unquestionably Steve Stirling's best work to date, a page-turner that is certain to win the author legions of new readers and fans. I wouldn't be surprised to see it on a few awards ballots either." --George R. R. Martin, author of *A Game of Thrones*  "A well thought-out time travel scenario with a few interesting differences from most books in the genre." --*Kliatt*  "Stirling has surpassed his previous work in the creation of a compelling cast of characters and does a fine job of conveying both a sense of loss and hope." --*Science Fiction Chronicle*</dc:description>
+        <dc:publisher>ROC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451457431</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Island in the Sea of Time Trilogy" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-19T14:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Against the Tide of Years" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea49cab5-f8f9-42b9-b100-85a068b10cc7</dc:identifier>
+        <dc:title>In the Shadow of Gotham</dc:title>
+        <dc:creator opf:file-as="Pintoff, Stefanie" opf:role="aut">Stefanie Pintoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-28T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Dobson, New York, 1905.
+
+
+
+Detective Simon Ziele lost his fiancée in the General Slocum ferry disastera thousand perished on that summer day in 1904 when an onboard fire burned the boat down in the waters of the East River. Still reeling from the tragedy, Ziele transferred to a police department north of New York, to escape the city and all the memories it conjured. 
+
+
+
+But only a few months into his new life in a quiet country town, he’s faced with the most shocking homicide of his career to date: Young Sarah Wingate has been brutally murdered in her own bedroom in the middle of an otherwise calm and quiet winter afternoon. After just one day of investigation, Simon’s contacted by Columbia University’s noted criminologist Alistair Sinclair, who offers a startling claim about one of his patients, Michael Fromleythat the facts of the murder bear an uncanny resemblance to Fromley’s deranged mutterings.
+
+
+
+But what would have led Fromley, with his history of violent behavior and brutal fantasies, to seek out Sarah, a notable mathematics student and a proper young lady who has little in common with his previous targets? Is Fromley really a murderer, or is someone mimicking him?
+
+
+
+This is what Simon Ziele must find out, with the help of the brilliant but self-interested Alistair Sinclairbefore the killer strikes again.
+
+
+
+With this taut, atmospheric, and original story of a haunted man who must search for a killer while on the run from his own demons, Stefanie Pintoff’s *In the Shadow of Gotham* marks the debut of an outstanding new talent, the inaugural winner of the Minotaur Books/Mystery Writers of America Best First Crime Novel Competition.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312544904</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Simon Ziele mysteries" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-04T01:35:45.460000+00:00" name="calibre:timestamp"/>
+        <meta content="In the Shadow of Gotham" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

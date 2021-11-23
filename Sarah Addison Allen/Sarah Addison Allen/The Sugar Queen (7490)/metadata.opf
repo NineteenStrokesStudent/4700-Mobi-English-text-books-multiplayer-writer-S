@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecc7eb4b-90bb-4aa1-a2bd-107124079e89</dc:identifier>
+        <dc:title>The Sugar Queen</dc:title>
+        <dc:creator opf:file-as="Allen, Sarah Addison" opf:role="aut">Sarah Addison Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-20T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In this irresistible novel, Sarah Addison Allen, author of the New York Times bestselling debut, Garden Spells, tells the tale of a young woman whose family secrets—and secret passions—are about to change her life forever.
+Josey Cirrini is sure of three things: winter is her favorite season, she’s a sorry excuse for a Southern belle, and sweets are best eaten in the privacy of her closet. For while Josey has settled into an uneventful life in her mother’s house, her one consolation is the stockpile of sugary treats and paperback romances she escapes to each night…. Until she finds her closet harboring Della Lee Baker, a local waitress who is one part nemesis—and two parts fairy godmother. With Della Lee’s tough love, Josey’s narrow existence quickly expands. She even bonds with Chloe Finley, a young woman who is hounded by books that inexplicably appear when she needs them—and who has a close connection to Josey’s longtime crush. Soon Josey is living in a world where the color red has startling powers, and passion can make eggs fry in their cartons. And that’s just for starters.
+Brimming with warmth, wit, and a sprinkling of magic, here is a spellbinding tale of friendship, love—and the enchanting possibilities of every new day.</dc:description>
+        <dc:publisher>Bantam</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553805499</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-19T22:16:06.715000+00:00" name="calibre:timestamp"/>
+        <meta content="Sugar Queen, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

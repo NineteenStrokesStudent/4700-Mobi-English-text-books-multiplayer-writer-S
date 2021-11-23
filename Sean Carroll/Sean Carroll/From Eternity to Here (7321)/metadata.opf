@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7705807-2439-4a1b-a774-37dc0aa4e64a</dc:identifier>
+        <dc:title>From Eternity to Here</dc:title>
+        <dc:creator opf:file-as="Carroll, Sean" opf:role="aut">Sean Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T09:35:30.202000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A rising star in theoretical physics offers his awesome vision of our universe and beyond, all beginning with a simple question: Why does time move forward?**
+
+
+
+ Time moves forward, not backward-everyone knows you can't unscramble an egg. In the hands of one of today's hottest young physicists, that simple fact of breakfast becomes a doorway to understanding the Big Bang, the universe, and other universes, too. In *From Eternity to Here*, Sean Carroll argues that the arrow of time, pointing resolutely from the past to the future, owes its existence to conditions *before* the Big Bang itself-a period modern cosmology of which Einstein never dreamed. Increasingly, though, physicists are going out into realms that make the theory of relativity seem like child's play. Carroll's scenario is not only elegant, it's laid out in the same easy-to- understand language that has made his group blog, Cosmic Variance, the most popular physics blog on the Net.
+
+
+
+ *From Eternity to Here* uses ideas at the cutting edge of theoretical physics to explore how properties of spacetime before the Big Bang can explain the flow of time we experience in our everyday lives. Carroll suggests that we live in a baby universe, part of a large family of universes in which many of our siblings experience an arrow of time running in the opposite direction. It's an ambitious, fascinating picture of the universe on an ultra-large scale, one that will captivate fans of popular physics blockbusters like *Elegant Universe* and *A Brief History of Time*.</dc:description>
+        <dc:publisher>Penguin Group (USA)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780525951339</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-10T09:34:19.994000+00:00" name="calibre:timestamp"/>
+        <meta content="From Eternity to Here" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

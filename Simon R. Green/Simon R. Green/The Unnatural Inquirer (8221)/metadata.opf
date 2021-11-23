@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f244dfca-0f1a-4879-95f8-daabc096810c</dc:identifier>
+        <dc:title>The Unnatural Inquirer</dc:title>
+        <dc:creator opf:file-as="Green, Simon R." opf:role="aut">Simon R. Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-07T11:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;The engaging eighth book in Green's popular offbeat Nightside series (after 2006's Hell to Pay) drops another paranormal mystery in the lap of series hero John Taylor, a PI in the shadowy realm of Nightside. Pen Donavon, who claims to have a DVD depicting actual footage of the afterlife, has vanished shortly after signing an exclusive deal with the tabloid Unnatural Inquirer. Various factions seeking to control the Nightside are leaving a considerable body count behind as they hunt for him. Accompanied by sexy half-demon reporter Bettie Divine, Taylor navigates the treacherous terrain with his typical skill before tracking down the real force behind Donavon's disappearance. Green skillfully blends action and humor, and shows no sign of running out of ideas. This installment will undoubtedly rope in new readers who enjoy his blend of dark humor and the supernatural. &lt;br /&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;From&lt;/h3&gt;&lt;p&gt;John Taylor has another one of those days, beginning with a showdown at the defunct Nightside carnival between the Voodoo Apostate, the gods he tried to dominate, and Taylor. Next, a call from the editor of the Unnatural Enquirer asking Taylor to find a man who disappeared en route to deliver an afterlife recording he had just sold the rights to. Teamed with a half-succubus demon-girl reporter, Taylor visits the Nightside’s key players and politics as people jockey to replace the recently destroyed authorities. Meanwhile, some heavy-duty characters also seek the recording. More fast, fun, adventurous detection in a setting in which nearly anything’s possible. --Regina Schroeder &lt;/p&gt;</dc:description>
+        <dc:publisher>Ace Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780441015580</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Detective</dc:subject>
+        <meta content="Nightside" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-26T18:37:42.583252+00:00" name="calibre:timestamp"/>
+        <meta content="Unnatural Inquirer, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

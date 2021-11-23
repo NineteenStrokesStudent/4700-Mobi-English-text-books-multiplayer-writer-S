@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca571e51-b609-4379-bf41-75d8cd949f8a</dc:identifier>
+        <dc:title>Nightmares and Dreamscapes</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-09-01T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+King's third collection, after Night Shift (1978) and Skeleton Crew (1985), offers 23 formerly uncollected works, with King as bizarre as ever. A handful of the stories have been rewritten or dressed up for this occasion. King's introduction (a defense against the ivory tower opinions of his critics) and endnotes mentions several sources, including The New Yorker, which printed the lengthy ``Heads Down''--about Little League teams up in Maine--that King calls ``the best nonfiction writing of my life.'' Other oddities are a nostalgic baseball poem and a downbeat teleplay, ``Sorry, Right Number,'' which appeared on Tales from the Darkside. Some pieces display King's charging, looser, richly vulgar style (``Dolan's Cadillac,'' a revenge tale in which the narrator gets even with a Mafia chieftain who killed the hero's wife, and buries him alive in his Caddie), while others occasionally show an unusually neat style hardly different from any other journeyman writer's, aside from the magical King touches (``The Moving Finger''--perhaps the best in the collection, about a man haunted by a live finger that keeps climbing out of the drain of his bathroom sink and finally grows to seven feet). Still others strive for human feeling (``Dedication''--about a longtime black cleaning maid in a fancy hotel who gets whammied by a voodoo lady and made pregnant by sperm on the bedsheets of a white novelist whose writing style gets passed on to her son)--and then some are just the King ticket readers expect: ``The End of the Whole Mess''-- about a polymathic genius who discovers the way to end man's inhumanity to man by altering his drinking water. Addicts, fear not: the King lives.</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451180230</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="Stephen King Short Story Collection" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-06T22:16:22.444000+00:00" name="calibre:timestamp"/>
+        <meta content="Nightmares and Dreamscapes" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d103fdd-0c6d-4f2a-bacb-43f38d311223</dc:identifier>
+        <dc:title>Reflex</dc:title>
+        <dc:creator opf:file-as="Gould, Steven" opf:role="aut">Steven Gould</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-23T18:14:43.866000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Davy thinks he's alone...what if he isn't?When Davy was a young teen, he discovered that he was capable of teleportation.  At first, it was only when he was terrified and in horrible danger.  Later, he learned to control his ability, and went to work for a secret government agency.Now, a mysterious group of people has taken Davy captive.  They don't want to hire him, and they don't have any hope of appealing to him to help them.   What they want is to own him.  They want to use his abilities for their own purposes, whether Davy agrees to it or not.   And so they set about brainwashing him and conditioning him, and they have found a way to keep a teleport captive.But there's one thing that they don't know.  No one knows it, not even Davy.  The secret is that  experiencing teleportation, over and over again, can teach a person how to do it.   Davy's wife Millie is the only person on Earth who has teleported nearly as often as he has.  She discovered her new talent the same way Davy did -- in mortal danger, facing imminent death, she suddenly found herself in her own apartment.Now, if she can learn to control this ability, and fast, she may be able to rescue Davy.</dc:description>
+        <dc:publisher>Tor</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312864217</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Jumper" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-22T01:42:14.956000+00:00" name="calibre:timestamp"/>
+        <meta content="Reflex" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

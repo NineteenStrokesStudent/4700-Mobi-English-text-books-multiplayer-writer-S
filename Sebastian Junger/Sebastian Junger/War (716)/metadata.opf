@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b729b340-0106-44db-a264-06ca6ab0e307</dc:identifier>
+        <dc:title>War</dc:title>
+        <dc:creator opf:file-as="Junger, Sebastian" opf:role="aut">Sebastian Junger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+From the author of The Perfect Storm, a gripping book about Sebastian Junger's almost-fatal year with the 2nd battalion of the American Army.They were known as "The Rock." For one year, in 2007-2008, Sebastian Junger accompanied a single platoon of thirty men from the storied 2nd battalion of the U.S. Army, as they fought their way through a remote valley in Eastern Afghanistan. Over the course of five trips, Junger was in more firefights than he can count, men he knew were killed or wounded, and he himself was almost killed. His relationship with these soldiers grew so close that they considered him part of the platoon, and he enjoyed an access and a candidness that few, if any, journalists ever attain.War is a narrative about combat: the fear of dying, the trauma of killing and the love between platoon-mates who would rather die than let each other down.Gripping, honest, intense, War explores the neurological, psychological and social elements of combat, and the incredible bonds that form between these small groups of men. This is not a book about Afghanistan or the 'War on Terror'; it is a book about the universal truth of all men, in all wars. Junger set out to answer what he thought of as the 'hand grenade question': why would a man throw himself on a hand grenade to save other men he has probably known for only a few months? The answer elusive but profound, and goes to the heart of what it means not just to be a soldier, but to be human.</dc:description>
+        <dc:publisher>HarperCollins Publishers Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007337705</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-28T22:06:41.848000+00:00" name="calibre:timestamp"/>
+        <meta content="War" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

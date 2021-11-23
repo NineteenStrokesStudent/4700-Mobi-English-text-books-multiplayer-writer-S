@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a487f74-dbf3-45d4-8df4-b3a7d9a58ac1</dc:identifier>
+        <dc:title>The Year That Follows</dc:title>
+        <dc:creator opf:file-as="Lasser, Scott" opf:role="aut">Scott Lasser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-09T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The story of a woman’s search for her brother’s lost son, orphaned in the wake of his sudden death, drives Scott Lasser’s riveting new novel—a work of stunning economy and momentum about a woman’s quest and a family’s longing for wholeness and completion.Cat is a single mother living in Detroit when her brother is killed in New York, and she sets off in search of his child. Her search is still under way when she gets a call from her father. Sam is eighty and carrying the weight of a secret he has kept from her all her life. He asks Cat to visit him in California, intending to make his peace.Cat’s journey—toward her father, and her brother’s infant son—and Sam’s journey toward his daughter, his lost son, and a new relationship to both his future and his past are woven into this superbly realized novel about families and the mysteries and ambiguities that inhere in our most primal relations. The result is a deeply stirring work that explores the complexities of home and heritage, and the bonds that even death is powerless to diminish.</dc:description>
+        <dc:publisher>Knopf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307271198</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-14T04:54:34.399000+00:00" name="calibre:timestamp"/>
+        <meta content="Year That Follows, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

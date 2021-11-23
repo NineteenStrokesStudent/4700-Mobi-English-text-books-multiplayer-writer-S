@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18ad3ef3-62e8-4c9f-936e-6e97b8a62569</dc:identifier>
+        <dc:title>Small Wars: A Novel</dc:title>
+        <dc:creator opf:file-as="Jones, Sadie" opf:role="aut">Sadie Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-01T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The prizewinning author of The Outcast delivers the emotionally searing story of a marriage in crisis, an unflinching look at lives irrevocably altered by one of history's ""small wars."" Hal Treherne is a major in the British Army, a young and dedicated soldier on the brink of a brilliant career. When he is transferred to the British colony of Cyprus in 1956, Hal is joined by Clara, his beautiful and supportive wife, and their baby daughters. The Trehernes quickly learn that the Mediterranean is no ""sunshine posting,"" however, and soon Hal is caught up in the battle to defend the island against Cypriots seeking enosis, union with Greece. Leading his men in difficult and bloody skirmishes, after years of peaceful service, Hal at last tastes triumph. But his confidence and pride quickly fade: traumatized by the brutality he witnesses-and thwarted again in his attempts to do the right thing-Hal finds himself well trained in duty but ill equipped for moral battle. A seasoned army wife, Clara shares her husband's sense of obligation. She knows to settle in quickly, make no fuss, smile. But as she struggles to trust her own maternal instincts and resist the anxiety that surges with Hal's frequent absences, Clara grows fearful of her increasingly distant husband. When she needs him most, Clara finds the once-tender Hal a changed man-a betrayal that is only part of the shocking personal crisis to come. What place is there for honor amid cruelty, and what becomes of intimacy in the grinding gears of empire? A passionate and brilliantly researched novel about the effects of war on the men who wage it and the families they leave behind, Small Wars raises important questions that resonate for our own time.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061966323</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-11T10:09:31.052000+00:00" name="calibre:timestamp"/>
+        <meta content="Small Wars: A Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

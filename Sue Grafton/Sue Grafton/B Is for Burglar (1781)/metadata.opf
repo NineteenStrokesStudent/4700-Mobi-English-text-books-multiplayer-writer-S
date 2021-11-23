@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1781</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56089ecd-b48c-4c67-bb00-3c71c93d9811</dc:identifier>
+        <dc:title>B Is for Burglar</dc:title>
+        <dc:creator opf:file-as="Grafton, Sue" opf:role="aut">Sue Grafton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-29T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Although business has been slow lately for P.I. Kinsey Millhone, she’s reluctant to take on the case of locating Beverly Danziger’s sister Elaine Boldt. It’s a small matter that Beverly should be able to handle herself. So why is she enlisting Kinsey’s services? Beverly claims she needs Elaine’s signature on some documents so that she can collect a small inheritance. But the whole affair doesn’t sit well with Kinsey. And if there’s something she’s learned in her line of work, it’s to always follow your instincts… Kinsey’s hunch proves true when she begins her inquiries into Elaine’s whereabouts and discovers that the attractive widow was last seen in a flashy lynx coat boarding a plane for Boca Raton. But the more Kinsey searches for Elaine the more questions she encounters. Is Elaine’s disappearance tied in to the brutal murder several months ago of one of her bridge partners? And what happened to Elaine’s Persian cat who seems to have also vanished?Things take a turn for the worse when a stranger vandalizes the home of one of Elaine’s neighbors and another neighbor turns up murdered. With her reputation and career on the line, Kinsey risks all to find a missing woman and a killer who’s waiting in the shadows to strike again…</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312939007</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Kinsey Millhone" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-29T00:26:06.517000+00:00" name="calibre:timestamp"/>
+        <meta content="B Is for Burglar" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

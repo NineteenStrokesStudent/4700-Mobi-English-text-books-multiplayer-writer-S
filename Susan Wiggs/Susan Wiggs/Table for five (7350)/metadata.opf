@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69e1fa3f-ceb9-4c11-a6b5-67b9567dcf5a</dc:identifier>
+        <dc:title>Table for five</dc:title>
+        <dc:creator opf:file-as="Wiggs, Susan" opf:role="aut">Susan Wiggs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-13T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Sometimes it takes a leap of faith in order to soar . . .    
+
+A gifted teacher, Lily Robinson adores her students, but fiercely guards her independent lifestyle. Deep inside, she is afraid of loving too deeply for fear of getting hurt. Only her best friend, Crystal, has ever been able to get close. Now an unthinkable tragedy has drawn Lily into the shattered lives of Crystal's family -- a family that suddenly needs her.    
+
+Sean McGuire is a rolling stone used to living in the shadow of his famous brother, Derek. He's made his own way in life, playing by his own rules. Then one April night everything changes when a fatal car crash orphans Derek and Crystal's three children. In an instant, Sean finds himself in the role of guardian.    
+
+Sean and Lily are brought together by tragedy, joined in their grief and their mutual love for these children. But raising three kids is a monumental job, and Sean realizes he's in over his head. And though Lily has been the unofficial aunt to these children since they were born, planting emotional roots means taking risks -- and Lily's not sure she can.    
+
+The ups and downs of love and family life can be a roller-coaster ride -- thrilling, unpredictable and downright terrifying, yet filled with incredible delight. and Sean and Lily are about to discover the possibilities that make everything seem worthwhile -- a future filled with hope, happiness and the certainty that trusting love is the best choice of all.    
+
+Susan Wiggs is the acclaimed, bestselling author of many poignant, unforgettable novels, including *Summer by the Sea*, *The Ocean Between Us* and *Home Before Dark*. she lives with her husband and daughter on an island in the Pacific Northwest, where she is currently at work on her next novel.</dc:description>
+        <dc:publisher>MIRA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780739453681</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-11T23:25:49.706000+00:00" name="calibre:timestamp"/>
+        <meta content="Table for five" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

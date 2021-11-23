@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83de2c71-4fb2-4fbd-a3d7-2032c86da94e</dc:identifier>
+        <dc:title>One Hundred Percent Lunar Boy</dc:title>
+        <dc:creator opf:file-as="Tunney, Stephen" opf:role="aut">Stephen Tunney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:38:59.340000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Two thousand years in the future, the Moon has become a run-down experiment in terraforming and colonization with a dusty patina and a bright red sky. To sixteen-year-old Hieronymus Rexaphin, it is the only world he has ever known until he meets a girl from Earth called Windows Falling on Sparrows, who is inexplicably drawn to him because of his special--some say dangerous--condition.    Hieronymus is a One Hundred Percent Lunar Boy who can see the fourth primary color, which gives him the ability to see the future path of time and matter. To look into his eyes will cause madness or even death, authorities say, so he is forced to wear goggles at all times. The color of his eyes is against Lunar law, and some say against nature. After breaking the Moon s most serious law and exposing his eyes to the curious young Earth girl, Hieronymus embarks on a tremendous misadventure to protect his friends and save his family, and to escape exile and imprisonment on the far side of the moon.</dc:description>
+        <dc:publisher>MacAdam/Cage Publishing, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781596923683</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-25T22:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="One Hundred Percent Lunar Boy" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

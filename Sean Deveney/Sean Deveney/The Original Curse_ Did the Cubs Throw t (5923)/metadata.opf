@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e257e47e-1f88-473e-b37b-0e8b3fd3c5e9</dc:identifier>
+        <dc:title>The Original Curse: Did the Cubs Throw the 1918 World Series to Babe Ruth's Red Sox and Incite the Black Sox Scandal?</dc:title>
+        <dc:creator opf:file-as="Deveney, Sean &amp; Rosenthal, Ken" opf:role="aut">Sean Deveney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-02T21:23:47.427000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**IN THE GRAND TRADITION OF    *EIGHT MEN OUT* . . .    the untold story of baseball’s ORIGINAL SCANDAL**        
+
+Did the Chicago Cubs throw the World    Series in 1918—and get away with it?        
+
+Who were the players involved—and why did they do it?        
+
+Were gambling and corruption more widespread across the leagues than    previously believed?        
+
+Were the players and teams “cursed” by their actions?        
+
+Finally, is it time to rewrite baseball history?        
+
+With exclusive access to surprising new evidence, Sporting News reporter    Sean Deveney details a scandal at the core of baseball’s greatest    folklore—in a golden era as exciting and controversial as our sports world    today. This inside look at  the pivotal year of 1918 proves that baseball    has always been a game overrun with colorful characters, intense human    drama, and explosive controversy.            
+
+"*The Original Curse* is not just about baseball. It is a sweeping portrait of America at war in 1918. . . . In the end, the proper question is not, ‘How could a player from that era fix the World Series?’ It’s, ‘How could he not?’”                                         —Ken Rosenthal, FOX Sports, from the    Introduction        
+
+"Sean Deveney plays connect-the-dots in this intriguing account of a possible conspiracy to throw the 1918 World Series. Thoroughly researched and well written, *The Original Curse* is a must-read for baseball fans and anyone who loves a good mystery. Is Max Flack the Shoeless Joe of the 1918 Cubs? Deveney lays out the case and let's readers decide if the fix was in."                                         —Paul Sullivan, Cubs beat writer, *Chicago Tribune*         
+
+"This book gives the reader a fun and honest look at baseball as it used to be-- the good guys, the gamblers, the cheaters, the drunks, the inept leaders. But, more than that, it puts those characters into the context of Chicago, Boston and America at the time of World War I, and you wind up with a unique way to explain the motivations of those characters."                                         —David Kaplan, host, *Chicago Tribune Live* and *WGN's Sports Central*        
+
+“Deveney’s painstaking study of the 1918 World Series between the Cubs and Red Sox argues that the Black Sox scandal was not an aberration and might have had an antecedent. Deveney’s scholarship does not detract from his ability to spin a good tale: his tendency to imagine players’ conversations will remind readers of Leigh Montville’s *The Big Bam: The Life and Times of Babe Ruth*…. A welcome companion to Susan Dellinger’s *Red Legs and Black Sox: Edd Roush and the Untold Story of the 1919 World Series*, Deveney’s book contributes greatly to our understanding of this decisive period in baseball and American morals."                                         —*Library Journal*</dc:description>
+        <dc:publisher>McGraw Hill Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780071629973</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Sports</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-14T21:19:24.645000+00:00" name="calibre:timestamp"/>
+        <meta content="Original Curse: Did the Cubs Throw the 1918 World Series to Babe Ruth's Red Sox and Incite the Black Sox Scandal?, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Sports&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

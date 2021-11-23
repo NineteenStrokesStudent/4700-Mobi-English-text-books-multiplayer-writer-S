@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6061</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">264fa727-0875-4317-99f1-06a1e56b5e4d</dc:identifier>
+        <dc:title>Cormac: The Tale of a Dog Gone Missing</dc:title>
+        <dc:creator opf:file-as="Brewer, Sonny" opf:role="aut">Sonny Brewer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-26T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In the same vein as Marley and Me and My Dog Skip, this “mostly true” novel is at once a whimsical campfire mystery and a universal story about the friendship between a man and his dog.Cormac, a golden retriever who has always been afraid of thunderstorms and lightning flashes, runs away one stormy night while his master is away. So begins a strange adventure that lands Cormac in the back of a red pickup truck driven by a mysterious woman, takes him to a series of dog pounds and rescue shelters, and ultimately brings him to the suburbs of Connecticut. His owner, meanwhile, devastated by Cormac’s disappearance and trying to juggle a family, a book tour, and writing his new novel, becomes determined to solve the “dog-napping” case. With the help of the local veterinarian, bookstore colleagues, animal rescue employees, and old friends, he picks up on Cormac’s trail and watches his small-town community come together in search of his lost companion.Inspired by real events, and embellished only to serve the story through the spirit of imagination, Brewer has, as he says, “mainly told the truth in this story of losing my good dog Cormac.”From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385666732</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Dogs</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-19T03:26:00.753553+00:00" name="calibre:timestamp"/>
+        <meta content="Cormac: The Tale of a Dog Gone Missing" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Dogs&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

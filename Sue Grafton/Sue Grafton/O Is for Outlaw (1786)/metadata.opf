@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07ad93fd-3a07-4a18-8322-e4e08c3cbc95</dc:identifier>
+        <dc:title>O Is for Outlaw</dc:title>
+        <dc:creator opf:file-as="Grafton, Sue" opf:role="aut">Sue Grafton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-28T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Wise-cracking, staunchly independent, and chronically curious, Grafton's gritty gumshoe Kinsey Millhone is back. This time, the alphabet series star will take on the toughest case to date: her past. What begins as a random phone call from a "storage space scavenger" (someone who buys the contents of defaulted storage units) leads Kinsey to a box of old papers and personal effects that her ex-husband, Mickey Magruder, left behind. Inside, she finds a 15-year-old unsent letter from a bartender that, among other things, reveals her former hubby was having an affair. The letter also contains details about the murder of a transient--a crime for which Mickey was blamed. Although never convicted, Mickey was ruined--losing his job, wife, and friends. But 15 years later, Kinsey realizes that foul play may have been involved in the murder, a deadly temptation for her. Die-hard fans will especially enjoy Kinsey's self-disclosure--something she's infamous for not doing--about her childhood, the fate of her parents, and the randy details of her first marriage. A very vulnerable and interesting side to Kinsey's character is also revealed when her obsessive-compulsive fact-finding bent is mixed up with matters of the heart. A fast, fun read, O Is for Outlaw is packed with Grafton's clear, colorful imagery and signature metaphors: "Our recollection of the past is not simply distorted by our faulty perception of events remembered, but skewed by those forgotten. The memory is like orbiting twin stars, one visible, one dark, the trajectory of what's evident forever affected by the gravity of what's concealed." --Rebekah Warren</dc:description>
+        <dc:publisher>Thorndike Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780786220441</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Kinsey Millhone" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-29T00:26:34.854000+00:00" name="calibre:timestamp"/>
+        <meta content="O Is for Outlaw" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

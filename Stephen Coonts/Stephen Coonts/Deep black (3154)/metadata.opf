@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8cbafd6-9073-4aff-bd7f-d7a322edabe9</dc:identifier>
+        <dc:title>Deep black</dc:title>
+        <dc:creator opf:file-as="Defelice, Stephen Coonts; Jim" opf:role="aut">Stephen Coonts</dc:creator>
+        <dc:creator opf:file-as="Defelice, Stephen Coonts; Jim" opf:role="aut">Jim DeFelice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-03T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+When the National Security Agency intercepts and decodes an obscure email message indicating a severe threat to the US, the American President considers his options. No Navy task force can solve this problem; it's too complicated for Delta Force and too delicate for the Marines. A B-2 bomber will only make things worse. What if, he asks the NSA Director, the same technology that made the interception possible could be used as an offensive weapon? What if the NSA turned from crypto-spy to crypto-warrior? Armed with satellites, ships, planes, and an array of sophisticated hardware, the NSA proves as competent at covert action as it is at spying. With members of all services working closely with the agency, there is no place on earth it can't reach. Success leads to a permanent NSA Group that acts directly for the NSA Director. But the high-wire nature of its missions and the secretive, ego-driven culture of the agency mean disaster always looms nearby...</dc:description>
+        <dc:publisher>Orion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780752859019</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="Deep Black" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T07:11:19.822000+00:00" name="calibre:timestamp"/>
+        <meta content="Deep black" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

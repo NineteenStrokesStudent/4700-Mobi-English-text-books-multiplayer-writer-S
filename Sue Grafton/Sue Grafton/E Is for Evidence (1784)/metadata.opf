@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d92d5d76-b4ff-4177-b29b-244da8ee83ce</dc:identifier>
+        <dc:title>E Is for Evidence</dc:title>
+        <dc:creator opf:file-as="Grafton, Sue" opf:role="aut">Sue Grafton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-28T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Being a twice-divorced, happily independent loner has worked like a charm for P.I. Kinsey Millhone—until holiday weekends like this one roll around. What she needs is a little diversion to ward off the blues. She gets her much-needed distraction with a case that places her career on the line. And if that isn’t enough to keep her busy, her ex-husband, who walked out on her eight years ago, pops back on the radar...It all begins with a $5,000 deposit made into Kinsey’s bank account. Problem is she’s not the one who deposited the money. But when she’s accused of being on the take in an industrial arson case, Kinsey realizes someone is framing her…Now Kinsey’s working for herself. But with new evidence—and corpses—surfacing around her, she’s going to have to act quickly to clear her name before she loses her career, her reputation—and quite possibly her life…</dc:description>
+        <dc:publisher>Pan Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780330455541</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Kinsey Millhone" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-29T00:26:14.189000+00:00" name="calibre:timestamp"/>
+        <meta content="E Is for Evidence" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 4, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

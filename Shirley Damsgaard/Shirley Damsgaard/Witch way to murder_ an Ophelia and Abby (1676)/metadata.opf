@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43ff3a80-1878-4f4f-a041-bebe7387aebe</dc:identifier>
+        <dc:title>Witch way to murder: an Ophelia and Abby mystery</dc:title>
+        <dc:creator opf:file-as="Damsgaard, Shirley" opf:role="aut">Shirley Damsgaard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-11T05:38:02.165000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Bewitched meets Murder She Wrote in this delightful new cozy mystery series featuring Ophelia Jensen, small town librarian and reluctant psychic, and her grandmother Abby, a benevolent witch.   Thirty something Ophelia Jensen wants to live a quiet life as a small town librarian. She's created a comfortable existence with her kooky, colorful grandmother Abby, and if it were up to her, they could live out their days—along with Ophelia's dog Lady and cat Queenie—in peace and quiet. But, to Ophelia's dismay, she and Abby aren't a typical grandmother/granddaughter duo. She possesses psychic powers, and Abby is a kindly witch. And while Ophelia would do anything to dismiss her gift—harboring terrible guilt after her best friend was killed and she was unable to stop it—threatening events keep popping up, forcing her to tap into her powers of intuition. To make matters worse, a strange—yet devastatingly attractive—man is hanging around Ophelia's library, and no matter how many times she tells him she's sworn off men forever, he persists. Soon this handsome newcomer reveals he's following a lead on a local drug ring, and then a dead body shows up right in Abby's backyard. And much as Ophelia would like to put away her spells forever, she and Abby must use their special powers to keep themselves, and others, out of harm's way.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060793487</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Ophelia and Abby" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-05T03:24:26.677000+00:00" name="calibre:timestamp"/>
+        <meta content="Witch way to murder: an Ophelia and Abby mystery" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

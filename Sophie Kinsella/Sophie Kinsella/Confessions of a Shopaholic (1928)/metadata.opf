@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1928</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d739683e-85cf-4ba8-88aa-dc1923b1aca1</dc:identifier>
+        <dc:title>Confessions of a Shopaholic</dc:title>
+        <dc:creator opf:file-as="Kinsella, Sophie" opf:role="aut">Sophie Kinsella</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-04T14:52:45.210000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Rebecca Bloomwood just hit rock bottom. But she's never looked better....Becky Bloomwood has a fabulous flat in London's trendiest neighborhood, a troupe of glamorous socialite friends, and a closet brimming with the season's must-haves. The only trouble is that she can't actually afford it—not any of it. Her job writing at Successful Savings not only bores her to tears, it doesn't pay much at all. And lately Becky's been chased by dismal letters from Visa and the Endwich Bank—letters with large red sums she can't bear to read—and they're getting ever harder to ignore. She tries cutting back; she even tries making more money. But none of her efforts succeeds. Becky's only consolation is to buy herself something ... just a little something....Finally a story arises that Becky actually cares about, and her front-page article catalyzes a chain of events that will transform her life—and the lives of those around her—forever. Sophie Kinsella has brilliantly tapped into our collective consumer conscience to deliver a novel of our times—and a heroine who grows stronger every time she weakens. Becky Bloomwood's hilarious schemes to pay back her debts are as endearing as they are desperate. Her "confessions" are the perfect pick-me-up when life is hanging in the (bank) balance.</dc:description>
+        <dc:publisher>Unknown</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="Shopaholic" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-04T14:52:45.210000+00:00" name="calibre:timestamp"/>
+        <meta content="Confessions of a Shopaholic" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

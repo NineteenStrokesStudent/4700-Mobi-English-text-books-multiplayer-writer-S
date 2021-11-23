@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aeafcae9-1121-4943-9428-7b4ed24ccd78</dc:identifier>
+        <dc:title>Full Dark, No Stars</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-09T06:53:36.486000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Full Dark, No Stars&lt;/em&gt;, you know you’re in for a treat--that is, if your idea of a good time is spent curled up in a ball wondering why-oh-why you started reading after dark. King fans (and those who have always wanted to give him a shot) will devour this collection of campfire tales where marriages sway under the weight of pitch-black secrets, greed and guilt poison and fester, and the only thing you can count on is that "there are always worse things waiting." &lt;em&gt;Full Dark, No Stars&lt;/em&gt; features four one-sitting yarns showcasing King at his gritty, gruesome, giddy best, so be sure to check under the bed before getting started. &lt;em&gt;--Daphne Durham&lt;/em&gt;   
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Amazon Exclusive: Justin Cronin, Suzanne Collins, Margaret Atwood, and T.C. Boyle Review Stephen King's &lt;em&gt;Full Dark, No Stars&lt;/em&gt;&lt;/strong&gt;   
+&lt;/p&gt;
+&lt;p&gt;"King is Poe's modern heir, and no writer has a richer sense of the dark rooms in the human psyche and fiction's singular power to capture them."   
+&lt;/p&gt;
+&lt;p&gt;"Fast-paced and beautifully plotted, 'Big Driver' pulls you into Tess's fragmented mind and holds you hostage until the story concludes."   
+&lt;/p&gt;
+&lt;p&gt;"It wouldn't be Stephen King if somebody's messily bleeding neck did not sprout a huge white knob. As it were."   
+&lt;/p&gt;
+&lt;p&gt;"[King's] very ordinary-looking devil has no use for human souls, which, in these enervated times, 'have become poor and transparent things.'"   
+&lt;/p&gt;
+&lt;hr /&gt;
+
+
+&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Starred Review. Eerie twists of fate drive the four longish stories in King's first collection since Just After Sunset (2008). In "1922," a farmer murders his wife to retain the family land she hopes to sell, then watches his life unravel hideously as the consequences of the killing suggest a near-supernatural revenge. "Big Driver" tells of an otherwise ordinary woman who discovers her extraordinary capacity for retribution after she is raped and left for dead. "A Good Marriage" explores the aftermath of a wife's discovery of her milquetoast husband's sinister secret life, while "Fair Extension," the book's most disturbing story, follows the relationship between a man and the best friend on whom he preternaturally shifts all his bad luck and misfortune. As in Different Seasons (1982), King takes a mostly nonfantastic approach to grim themes. Now, as then, these tales show how a skilled storyteller with a good tale to tell can make unsettling fiction compulsively readable. (Nov.) (c) &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439192566</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-10T06:45:55.907000+00:00" name="calibre:timestamp"/>
+        <meta content="Full Dark, No Stars" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

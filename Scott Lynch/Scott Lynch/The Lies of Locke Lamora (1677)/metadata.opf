@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be04edd4-206f-4937-8998-9fadd2c5cb45</dc:identifier>
+        <dc:title>The Lies of Locke Lamora</dc:title>
+        <dc:creator opf:file-as="Lynch, Scott" opf:role="aut">Scott Lynch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-26T05:45:08.008000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In this stunning debut, author Scott Lynch delivers the wonderfully thrilling tale of an audacious criminal and his band of confidence tricksters. Set in a fantastic city pulsing with the lives of decadent nobles and daring thieves, here is a story of adventure, loyalty, and survival that is one part Robin Hood, one part Ocean’s Eleven, and entirely enthralling.…An orphan’s life is harsh–and often short–in the island city of Camorr, built on the ruins of a mysterious alien race. But born with a quick wit and a gift for thieving, Locke Lamora has dodged both death and slavery, only to fall into the hands of an eyeless priest known as Chains–a man who is neither blind nor a priest. A con artist of extraordinary talent, Chains passes his skills on to his carefully selected “family” of orphans–a group known as the Gentlemen Bastards. Under his tutelage, Locke grows to lead the Bastards, delightedly pulling off one outrageous confidence game after another. Soon he is infamous as the Thorn of Camorr, and no wealthy noble is safe from his sting.Passing themselves off as petty thieves, the brilliant Locke and his tightly knit band of light-fingered brothers have fooled even the criminal underworld’s most feared ruler, Capa Barsavi. But there is someone in the shadows more powerful–and more ambitious–than Locke has yet imagined.Known as the Gray King, he is slowly killing Capa Barsavi’s most trusted men–and using Locke as a pawn in his plot to take control of Camorr’s underworld. With a bloody coup under way threatening to destroy everyone and everything that holds meaning in his mercenary life, Locke vows to beat the Gray King at his own brutal game–or die trying.…From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553588941</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Gentleman Bastard Sequence" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-04T16:05:19.931000+00:00" name="calibre:timestamp"/>
+        <meta content="Lies of Locke Lamora, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

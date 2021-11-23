@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">795f1b3f-73a1-4f61-be56-b95de6e17f9c</dc:identifier>
+        <dc:title>Abraham Lincoln: Vampire Hunter</dc:title>
+        <dc:creator opf:file-as="Grahame-Smith, Seth" opf:role="aut">Seth Grahame-Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T16:47:13.611000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Indiana, 1818. Moonlight falls through the dense woods that surround a one-room cabin, where a nine-year-old Abraham Lincoln kneels at his suffering mother's bedside. She's been stricken with something the old-timers call "Milk Sickness." "My baby boy..." she whispers before dying. Only later will the grieving Abe learn that his mother's fatal affliction was actually the work of a vampire. When the truth becomes known to young Lincoln, he writes in his journal, ""henceforth my life shall be one of rigorous study and devotion. I shall become a master of mind and body. And this mastery shall have but one purpose.".." Gifted with his legendary height, strength, and skill with an ax, Abe sets out on a path of vengeance that will lead him all the way to the White House. While Abraham Lincoln is widely lauded for saving a Union and freeing millions of slaves, his valiant fight against the forces of the undead has remained in the shadows for hundreds of years. That is, until Seth Grahame-Smith stumbled upon "The Secret Journal of Abraham Lincoln," and became the first living person to lay eyes on it in more than 140 years. Using the journal as his guide and writing in the grand biographical style of Doris Kearns Goodwin and David McCullough, Seth has reconstructed the "true" life story of our greatest president for the first time-all while revealing the hidden history behind the Civil War and uncovering the role vampires played in the birth, growth, and near-death of our nation.</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446563086</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-06T01:26:39.171000+00:00" name="calibre:timestamp"/>
+        <meta content="Abraham Lincoln: Vampire Hunter" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

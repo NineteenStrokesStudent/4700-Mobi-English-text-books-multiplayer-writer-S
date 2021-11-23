@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8264cb7-b4fb-41e5-84ea-faaadefe38ff</dc:identifier>
+        <dc:title>Ghost Wars</dc:title>
+        <dc:creator opf:file-as="Coll, Steve" opf:role="aut">Steve Coll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-23T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+From the managing editor of the *Washington Post*, a news-breaking account of the CIA's involvement in the covert wars in Afghanistan that fueled Islamic militancy and gave rise to bin Laden's al Qaeda.    For nearly the past quarter century, while most Americans were unaware, Afghanistan has been the playing field for intense covert operations by U.S. and foreign intelligence agencies-invisible wars which sowed the seeds of the September 11 attacks and which provide its context. From the Soviet invasion in 1979 through the summer of 2001, the CIA, KGB, Pakistan's ISI, and Saudi Arabia's General Intelligence Department all operated directly and secretly in Afghanistan. They primed Afghan factions with cash and weapons, secretly trained guerrilla forces, funded propaganda, and manipulated politics. In the midst of these struggles bin Laden conceived and then built his global organization.    Comprehensively and for the first time, Pulitzer Prize-winning journalist Steve Coll tells the secret history of the CIA's role in Afghanistan, from its covert program against Soviet troops from 1979 to 1989, to the rise of the Taliban and the emergence of bin Laden, to the secret efforts by CIA officers and their agents to capture or kill bin Laden in Afghanistan after 1998. Based on extensive firsthand accounts, *Ghost Wars*ok  is the inside story that goes well beyond anything previously published on U.S. involvement in Afghanistan. It chronicles the roles of midlevel CIA officers, their Afghan allies, and top spy masters such as Bill Casey, Saudi Arabia's Prince Turki al Faisal, and George Tenet. And it describes heated debates within the American government and the often poisonous, mistrustful relations between the CIA and foreign intelligence agencies.    *Ghost Wars* answers the questions so many have asked since the horrors of September 11: To what extent did America's best intelligence analysts grasp the rising threat of Islamist radicalism? Who tried to stop bin Laden and why did they fail?</dc:description>
+        <dc:publisher>Penguin Press HC, The</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594200076</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-15T07:21:41.542000+00:00" name="calibre:timestamp"/>
+        <meta content="Ghost Wars" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

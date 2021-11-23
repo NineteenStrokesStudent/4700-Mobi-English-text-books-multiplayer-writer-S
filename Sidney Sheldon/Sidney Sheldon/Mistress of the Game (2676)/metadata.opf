@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4e0b6a0-10f8-4ce9-8497-df7b75438bdb</dc:identifier>
+        <dc:title>Mistress of the Game</dc:title>
+        <dc:creator opf:file-as="Sheldon, Sidney &amp; Bagshawe, Tilly" opf:role="aut">Sidney Sheldon</dc:creator>
+        <dc:creator opf:file-as="Sheldon, Sidney &amp; Bagshawe, Tilly" opf:role="aut">Tilly Bagshawe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-20T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Sidney Sheldon introduced the glamorous Blackwell family in his book 'Master of the Game'. Yet the intervening years have not lessened the Blackwells' drama or talent for manipulation, domination, and passion. Though Kate is long gone, the children of her beloved granddaughters, Eve and Alexandra, battle to carry on her powerful legacy. Each is determined to control Kruger-Brent, Ltd., the multibillion-dollar international corporation with holdings in diverse industries around the globe. But only one can reign supreme. Lexi Templeton is a ruthless competitor with the brains and beauty to match. Raised by her psychiatrist father, Lexi burns to follow in her great-grandmother's footsteps and become her own Mistress of the Game. She is not alone in her ambitions. Her handsome and nefarious cousin, Max Webster, the son of Eve, will stop at nothing to own the prize of Kruger-Brent. Driven by hatred, jealousy, and blinding devotion to his bitter and twisted mother, he will seduce, betray, and even kill to succeed. And there is another player with plans of his own - a little-known descendant of Kate's great-grandfather. Growing up in poverty in Aberdeen, Scotland, handsome and cunning Gabriel McGregor is determined to fulfill his destiny, a quest that will lead him deep into the heart of the Kruger-Brent empire. In a family rife with secrets - murder, hidden identities, perversions - and a depraved sense of honor, the player who wins the game may be the only one who will survive.</dc:description>
+        <dc:publisher>Harper Collins USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061882838</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T10:20:06.146000+00:00" name="calibre:timestamp"/>
+        <meta content="Mistress of the Game" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

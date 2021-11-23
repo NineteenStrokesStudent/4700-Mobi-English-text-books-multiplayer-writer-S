@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f86db5dc-296f-4801-8a8c-e07029b25630</dc:identifier>
+        <dc:title>The Frozen Rabbi</dc:title>
+        <dc:creator opf:file-as="Stern, Steve" opf:role="aut">Steve Stern</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T05:50:55.276000+00:00</dc:date>
+        <dc:description>SUMMARY:
+And what happens when Bernie Karp, the impressionable fifteen-year-old son of the couple in whose home the rabbi lies frozen, inadvertently thaws out the ancient man? Such are the questions raised in this wickedly funny and ingenious novel by author Steve Stern, who, according to the "Washington Post Book World," belongs in the company of such writers as Stanley Elkin, Cynthia Ozick, Michael Chabon, Mark Helprin, and Philip Roth, all of them "innovative and restless practitioners of contemporary American-Jewish fantasy." When the rabbi comes fully and mischievously to life, Bernie finds himself on an unexpected odyssey to understand his heritage (Jewish), his role in life (nebbish hero), and his destiny (to ensure the rabbi's future). and the reader enters the lives of the people who struggled to transport the holy man's block of ice, surviving pogroms, a transatlantic journey (in steerage, of course), an ice-house fire in Manhattan's Lower East Side, and finally, a train trip to the city on the Mississippi. An epic novel in the spirit of Michael Chabon's "The Amazing Adventures of Kavalier and Clay," Steve Stern's "The Frozen Rabbi" is a wildly entertaining yet deeply thoughtful look at the burdens inherent in handing down traditions from one generation to the next.</dc:description>
+        <dc:publisher>Algonquin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781565126190</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-06T05:49:49.438000+00:00" name="calibre:timestamp"/>
+        <meta content="Frozen Rabbi, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

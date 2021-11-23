@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7be23eb1-c727-4ed3-9cfc-f6860d193749</dc:identifier>
+        <dc:title>Rage</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-02-01T08:00:00+00:00</dc:date>
+        <dc:description>Written by Richard Bachman. In quiet Placerville, Maine, a slightly twisted boy named Charles Decker holds the 24 other students of his algebra class at gunpoint after shooting 2 teachers. 
+
+Abused by his father as a child, he describes the important parts of his life, and in the process, lets a lot of the students he holds hostage tell the rest of the class their "Dirty Secrets". Things almost come to an early end when Charles is shot by a sniper, but the bullet hits a padlock he had placed in his pocket earlier.
+
+As things progress, the students become more and more responsive to their captor, all except Ted Jones. The students get their own back, and play one last nasty trick on another student before being released unharmed. But Charles is out of luck...
+
+This was initially titled "Getting it On" (After Deckers favourite saying) but was later renamed Rage, and released under Bachman's name. It has not been reprinted in the last few years as Stephen King thought it too violent, and similar to many killings in some American Schools. This is a pity as it is an excellent insight into the mind of someone that it walking the thin edge of sanity.</dc:description>
+        <dc:publisher>New English Library Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780450053795</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-05T09:13:11.294000+00:00" name="calibre:timestamp"/>
+        <meta content="Rage" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69a095aa-c37a-4f30-93da-cdf9eab014b0</dc:identifier>
+        <dc:title>Jane and the Madness of Lord Byron: Being A Jane Austen Mystery</dc:title>
+        <dc:creator opf:file-as="Barron, Stephanie" opf:role="aut">Stephanie Barron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-28T04:01:41.796000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;In her tenth Jane Austen Mystery, Barron introduces her novelist heroine to the poet Lord Byron, who is famously regarded as being “mad, bad, and dangerous to know.” Not surprisingly, then, when a beautiful young woman, who has rejected the poet’s unwanted advances, is murdered, the Romantic rakehell is the chief suspect. Ah, but could he have, in truth, perpetrated the foul deed? Fans of the series will not be a bit surprised to learn that Jane is determined to find out. As always, Barron does an excellent job of capturing Austen’s first-person voice, and she gives lavish attention, as well, to period detail. Perhaps too lavish in this case, since the book is slow paced, and there is often more attention to atmosphere than to mystery. Barron’s many fans will not be particularly bothered by this fact, however, and will be delighted to learn—in an appended Q &amp;amp; A with the author—that an eleventh installment in the series is already underway. --Michael Cart 
+&lt;/p&gt;
+
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;The restorative power of the ocean brings Jane Austen and her beloved brother Henry, to Brighton after Henry’s wife is lost to a long illness. But the crowded, glittering resort is far from peaceful, especially when the lifeless body of a beautiful young society miss is discovered in the bedchamber of none other than George Gordon—otherwise known as Lord Byron. As a poet and a seducer of women, Byron has carved out a shocking reputation for himself—but no one would ever accuse him of being capable of murder. Now it falls to Jane to pursue this puzzling investigation and discover just how “mad, bad, and dangerous to know” Byron truly is. And she must do so without falling victim to the charming versifier’s legendary charisma, lest she, too, become a cautionary example for the ages. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553386707</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="Jane Austen Mystery" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-13T02:07:20.878000+00:00" name="calibre:timestamp"/>
+        <meta content="Jane and the Madness of Lord Byron: Being A Jane Austen Mystery" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

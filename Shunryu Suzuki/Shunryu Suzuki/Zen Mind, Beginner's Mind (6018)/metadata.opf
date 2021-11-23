@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6018</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72295a4a-33b8-47c0-832a-2752887c2b05</dc:identifier>
+        <dc:title>Zen Mind, Beginner's Mind</dc:title>
+        <dc:creator opf:file-as="Suzuki, Shunryū &amp; Dixon, Trudy &amp; Baker, Richard" opf:role="aut">Shunryū Suzuki</dc:creator>
+        <dc:creator opf:file-as="Suzuki, Shunryū &amp; Dixon, Trudy &amp; Baker, Richard" opf:role="aut">Trudy Dixon</dc:creator>
+        <dc:creator opf:file-as="Suzuki, Shunryū &amp; Dixon, Trudy &amp; Baker, Richard" opf:role="aut">Richard Baker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-10T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+"In the beginner's mind there are many possibilities, but in the expert's there are few." So begins this most beloved of all American Zen books. Seldom has such a small handful of words provided a teaching as rich as has this famous opening line of Shunryu Suzuki's classic. In a single stroke, the simple sentence cuts through the pervasive tendency students have of getting so close to Zen as to completely miss what it's all about. An instant teaching on the first page. And that's just the beginning. In the thirty years since its original publication, Zen Mind, Beginner's Mind has become one of the great modern Zen classics, much beloved, much re-read, and much recommended as the best first book to read on Zen. Suzuki Roshi presents the basics—from the details of posture and breathing in zazen to the perception of nonduality—in a way that is not only remarkably clear, but that also resonates with the joy of insight from the first to the last page. It's a book to come back to time and time again as an inspiration to practice.</dc:description>
+        <dc:publisher>Shambhala Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781590302675</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Religon</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-18T10:47:44.017000+00:00" name="calibre:timestamp"/>
+        <meta content="Zen Mind, Beginner's Mind" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Religon&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

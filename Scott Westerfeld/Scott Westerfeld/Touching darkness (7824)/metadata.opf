@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">940c1648-3e8e-4a24-9e53-522c7105b1cd</dc:identifier>
+        <dc:title>Touching darkness</dc:title>
+        <dc:creator opf:file-as="Westerfeld, Scott" opf:role="aut">Scott Westerfeld</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-17T01:33:34.697000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;The Midnighters of Bixby, Oklahoma, know that their town is full of secrets. These five teenagers are the only ones who know about the mysterious hour at midnight when the world freezes, except for them and the creatures that inhabit the darkness.&lt;/p&gt;&lt;p&gt;But they do not know why earlier generations of Midnighters all disappeared, or why they are now the only Midnighters in town. As they learn more about the secret hour's twists and turns, they uncover terrifying mysteries woven into the very fabric of Bixby's history, and a conspiracy that touches both the midnight hour and the world of daylight.&lt;/p&gt;&lt;p&gt;At the same time, the Midnighters' own secrets start to emerge, including some that were never meant to come to light, changing the fragile dynamics among the five.&lt;/p&gt;&lt;p&gt;This time Jessica Day is not the only Midnighter in mortal danger, and if the group can't find a way to come together, they could lose one of their own -- forever.&lt;/p&gt;&lt;p&gt;A tale of betrayal, horrifying revelations, and powerful alliances, touching darkness is the second volume of the riveting Midnighters trilogy by acclaimed author &lt;strong&gt;Scott Westerfeld&lt;/strong&gt;.&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Scott Westerfeld is the author of ten books for young adults, including &lt;em&gt;Peeps&lt;/em&gt;, &lt;em&gt;The Last Days&lt;/em&gt;, and the Midnighters trilogy. He was born in Texas in 1963, is married to the Hugo-nominated writer Justine Larbalestier, and splits his time between New York and Sydney. His latest book is &lt;em&gt;Extras&lt;/em&gt;, the fourth in the bestselling Uglies series. &lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060519544</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="Midnighters" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-29T01:32:32.401000+00:00" name="calibre:timestamp"/>
+        <meta content="Touching darkness" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

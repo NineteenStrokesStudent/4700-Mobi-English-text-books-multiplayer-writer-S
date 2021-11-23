@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf61ab79-38b6-4c9b-962d-7c96998dd39a</dc:identifier>
+        <dc:title>The Tale of Oat Cake Crag</dc:title>
+        <dc:creator opf:file-as="Wittig, Albert, Susan" opf:role="aut">Susan Wittig Albert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T06:10:30.869000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+** The latest tale in the "charming" (*Publishers Weekly*) Beatrix Potter series! ** 
+
+
+
+ In the Lake District, noisy test flights of the new hydroplane are disrupting life in the village of Near Sawrey. Miss Beatrix Potter can barely hear herself think-which she needs to do for the new case she's just taken up. Her friend Grace Lythecoe has been receiving some anonymous letters, threatening her good name. 
+
+
+
+ Now Beatrix must proceed quietly, so as not to arouse village gossip. And while her visit to Near Sawrey has proven to be anything but quiet, there is yet another piece of business for Beatrix to address: that of her own future. When she's offered a second chance at love, she decides that sometimes causing a disturbance can be well worth the trouble.</dc:description>
+        <dc:publisher>Penguin Group USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425236611</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T06:07:48.925000+00:00" name="calibre:timestamp"/>
+        <meta content="Tale of Oat Cake Crag, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

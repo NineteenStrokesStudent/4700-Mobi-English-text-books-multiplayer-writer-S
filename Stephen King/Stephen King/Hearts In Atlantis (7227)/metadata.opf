@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">beceaa71-ae3b-4220-95a6-53e6b19e4c99</dc:identifier>
+        <dc:title>Hearts In Atlantis</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-01T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+ 
+
+Stephen King, whose first novel, Carrie, was published in 1974, the year before the last U.S. troops withdrew from Vietnam, is the first hugely popular writer of the TV generation. Images from that war -- and the protests against it -- had flooded America's living rooms for a decade. Hearts in Atlantis, King's newest fiction, is composed of five interconnected, sequential narratives, set in the years from 1960 to 1999. Each story is deeply rooted in the sixties, and each is haunted by the Vietnam War.
+
+In Part One, "Low Men in Yellow Coats," eleven-year-old Bobby Garfield discovers a world of predatory malice in his own neighborhood. He also discovers that adults are sometimes not rescuers but at the heart of the terror.
+
+In the title story, a bunch of college kids get hooked on a card game, discover the possibility of protest...and confront their own collective heart of darkness, where laughter may be no more than the thinly disguised cry of the beast.
+
+In "Blind Willie" and "Why We're in Vietnam," two men who grew up with Bobby in suburban Connecticut try to fill the emptiness of the post-Vietnam era in an America which sometimes seems as hollow -- and as haunted -- as their own lives.
+
+And in "Heavenly Shades of Night Are Falling," this remarkable book's denouement, Bobby returns to his hometown where one final secret, the hope of redemption, and his heart's desire may await him.
+
+Full of danger, full of suspense, most of all full of heart, Stephen King's new book will take some readers to a place they have never been...and others to a place they have never been able to completely leave.</dc:description>
+        <dc:publisher>Pocket Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780671024246</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-07T00:58:03.119000+00:00" name="calibre:timestamp"/>
+        <meta content="Hearts In Atlantis" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

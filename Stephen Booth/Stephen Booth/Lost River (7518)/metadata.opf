@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cf1243c-696d-4839-a68d-dfd685a98a97</dc:identifier>
+        <dc:title>Lost River</dc:title>
+        <dc:creator opf:file-as="Booth, Stephen" opf:role="aut">Stephen Booth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+An atmospheric new Fry and Cooper thriller for fans of Peter Robinson and Reginald Hill.A May Bank Holiday in the Peak District is ruined by the tragic drowning of an eight-year-old girl in picturesque Dovedale. For Detective Constable Ben Cooper, a helpless witness to the tragedy, the incident is not only traumatic, but leads him to become involved in the tangled lives of the Neilds, the dead girl's family.As he gets to know them, Cooper begins to suspect that one of them is harbouring a secret - a secret that the whole family might be willing to cover up.Meanwhile, Detective Sergeant Diane Fry has a journey of her own to make - a journey back to her roots. As she finds herself drawn into an investigation of her own among the inner-city streets of Birmingham, Fry realises there is only one person she can rely on to provide the help she needs.But that man is Ben Cooper, and he's back in Derbyshire, where his suspicions are leading him towards a shocking discovery on the banks of another Peak District river.</dc:description>
+        <dc:publisher>HarperCollins Publishers Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007243488</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Cooper and Fry Mystery" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-22T23:50:51.968000+00:00" name="calibre:timestamp"/>
+        <meta content="Lost River" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

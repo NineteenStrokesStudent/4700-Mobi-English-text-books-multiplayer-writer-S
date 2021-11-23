@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">987d9df2-e3d7-4f04-b4c7-ba2ed079beae</dc:identifier>
+        <dc:title>How the Soldier Repairs the Gramophone</dc:title>
+        <dc:creator opf:file-as="Stanisic, Sasa &amp; Bell, Anthea" opf:role="aut">Sasa Stanisic</dc:creator>
+        <dc:creator opf:file-as="Stanisic, Sasa &amp; Bell, Anthea" opf:role="aut">Anthea Bell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-03T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The hardcover publication of *How the Soldier Repairs the Gramophone* launched Stanisic as an exciting and important new voice in literary fiction and earned exuberant praise from readers and critics alike. Now in paperback, Stanisic’s debut about a boy who experiences the Bosnian War and finds the secret to survival in language and stories is bound to dazzle a whole new readership. 
+
+For Aleksandar Krsmanovic, Grandpa Slavko’s stories endow life in Višegrad with a kaleidoscopic brilliance. Neighbors, friends, and family past and present take on a mythic quality; the River Drina courses through town like the pulse of life itself. So when his grandfather dies suddenly, Aleksandar promises to carry on the tradition. But then soldiers invade Višegrad&amp;#8212a town previously unconscious of racial and religious divides&amp;#8212and it’s no longer important that Aleksandar is the best magician in the nonaligned states; suddenly it is important to have the right last name and to convince the soldiers that Asija, the Muslim girl who turns up in his apartment building, is his sister. 
+
+Alive with the magic of childhood, the surreality of war and exile, and the power of language, every page of this glittering novel thrums with the joy of storytelling.</dc:description>
+        <dc:publisher>Grove Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780802144225</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T07:08:59.613000+00:00" name="calibre:timestamp"/>
+        <meta content="How the Soldier Repairs the Gramophone" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

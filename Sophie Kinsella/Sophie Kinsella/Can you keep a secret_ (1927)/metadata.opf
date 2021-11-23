@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8ae021e-ac0b-4d34-b656-58baae3d55b9</dc:identifier>
+        <dc:title>Can you keep a secret?</dc:title>
+        <dc:creator opf:file-as="Kinsella, Sophie" opf:role="aut">Sophie Kinsella</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-01T14:51:13.174000+00:00</dc:date>
+        <dc:description>SUMMARY:
+With the same wicked humor, buoyant charm, and optimism that have made her Shopaholic novels beloved international bestsellers, Sophie Kinsella delivers a hilarious new novel and an unforgettable new character. Meet Emma Corrigan, a young woman with a huge heart, an irrepressible spirit, and a few little secrets:Secrets from her mother:I lost my virginity in the spare bedroom with Danny Nussbaum while Mum and Dad were downstairs watching Ben-Hur.Sammy the goldfish in my parents’ kitchen is not the same goldfish that Mum gave me to look after when she and Dad were in Egypt.Secrets from her boyfriend:I weigh one hundred and twenty-eight pounds. Not one eighteen, like Connor thinks.I’ve always thought Connor looks a bit like Ken. As in Barbie and Ken.From her colleagues:When Artemis really annoys me, I feed her plant orange juice. (Which is pretty much every day.) It was me who jammed the copier that time. In fact, all the times.Secrets she wouldn’t share with anyone in the world:My G-string is hurting me.I have no idea what NATO stands for. Or even what it is.Until she spills them all to a handsome stranger on a plane. At least, she thought he was a stranger.But come Monday morning, Emma’s office is abuzz about the arrival of Jack Harper, the company’s elusive CEO. Suddenly Emma is face-to-face with the stranger from the plane, a man who knows every single humiliating detail about her. Things couldn’t possibly get worse—Until they do.</dc:description>
+        <dc:publisher>Delta Trade Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385338080</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-04T14:48:40.036000+00:00" name="calibre:timestamp"/>
+        <meta content="Can you keep a secret?" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

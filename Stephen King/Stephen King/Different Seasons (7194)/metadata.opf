@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a11a8b9-b222-4437-966c-16afa5474f7d</dc:identifier>
+        <dc:title>Different Seasons</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-08-29T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Different Seasons (1982) is a collection of four  novellas, markedly different in tone and subject, each on the theme of  a journey. The first is a rich, satisfying, nonhorrific tale about an  innocent man who carefully nurtures hope and devises a wily scheme to  escape from prison. The second concerns a boy who discards his  innocence by enticing an old man to travel with him into a reawakening  of long-buried evil. In the third story, a writer looks back on the  trek he took with three friends on the brink of adolescence to find  another boy's corpse. The trip becomes a character-rich rite of  passage from youth to maturity.
+
+These first three novellas have been made into well-received movies:  "Rita Hayworth and Shawshank Redemption" into Frank Darabont's 1994  The Shawshank Redemption (available as a screenplay, a DVD film, and an audiocassette), "Apt  Pupil" into Bryan Singer's 1998 film Apt Pupil (also released  in 1998 on audiocassette), and "The  Body" into Rob Reiner's Stand by Me  (1986).
+    The final novella, "Breathing Lessons," is a horror yarn told by a  doctor, about a patient whose indomitable spirit keeps her baby alive  under extraordinary circumstances. It's the tightest, most polished  tale in the collection. --Fiona Webster</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451167538</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-05T11:42:26.112000+00:00" name="calibre:timestamp"/>
+        <meta content="Different Seasons" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

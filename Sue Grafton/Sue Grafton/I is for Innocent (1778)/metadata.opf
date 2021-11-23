@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1778</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">347f0c90-77b8-4abd-897a-5972d135e96c</dc:identifier>
+        <dc:title>I is for Innocent</dc:title>
+        <dc:creator opf:file-as="Grafton, Sue" opf:role="aut">Sue Grafton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-28T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+When David Barney was acquitted in the shooting death of his wife, Isabelle, a good many thought that justice had not been served -- including Kenneth Voight, Isabelle's former husband. Now, five years later, Voight is the plaintiff in a civil suit in which Barney stands accused of Isabelle's wrongful death. The stakes are high -- Isabelle's estate is worth millions -- but time is running short: the statute of limitations will cut Voight off in only a matter of weeks. Enter sexy, savvy ex-cop-turned-P.I. Kinsey Millhone, brought in by Voight to gather the necessary damning evidence. It doesn't take long, however, for Kinsey to find that while a lot of people hate David Barney, a lot more hated Isabelle. Suddenly a simple civil case becomes a deadly hunt for someone who once got away with murder -- and may again....Look for other titles in the Alphabet Mystery Series published by Random House AudioBooks.Judy Kaye has appeared on Broadway in Oh, Brother, Grease, and On the Twentieth Century, and won the Tony Award for her performance in The Phantom of the Opera.</dc:description>
+        <dc:publisher>Random House Audio</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679411154</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Kinsey Millhone" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-29T00:26:21.626000+00:00" name="calibre:timestamp"/>
+        <meta content="I is for Innocent" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

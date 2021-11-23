@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">188110ed-446c-44fb-94d2-f9ae2473e708</dc:identifier>
+        <dc:title>From Hell With Love</dc:title>
+        <dc:creator opf:file-as="Green, Simon R." opf:role="aut">Simon R. Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-01T03:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;This gripping, fast-paced, emotionally intense fourth volume in Green's Secret Histories series (after 2009's &lt;em&gt;The Spy Who Haunted Me&lt;/em&gt;) is sure to delight fans of paranormal investigator Eddie Drood and his girlfriend, the fabulously strong and strong-willed witch Molly Metcalf. An insignificant villain, Doctor Delirium, plans to acquire a powerful, mysterious item at a secret sale. This simple event explodes into complexity when someone kills the Drood matriarch and turns Eddie's family into a deadly mob, with horrifying consequences. The real enemy is truly worthy of the Drood clan: a race of immortals who plan to breach the gates of heaven itself. Fans of the series will be delighted by the deft combination of urban fantasy adventure, sharp-edged sarcasm, and treachery upon treachery, which make this installment strong enough to stand alone as a great introduction to Green's work. &lt;em&gt;(June)&lt;/em&gt; &lt;br /&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;It's no walk in the park for a Drood, a member of the family that has protected humanity from the things that go bump in the night for centuries. They aren't much liked by the creatures they kill, by ungrateful humans, or even by one another.   &lt;/p&gt;&lt;p&gt;Now their Matriarch is dead, and it's up to Eddie Drood, acting head of the family, to figure out whodunit. Unpopular opinion is divided: it was either Eddie's best girl, Molly. Or Eddie himself. And Eddie knows he didn't do it. &lt;/p&gt;</dc:description>
+        <dc:publisher>Roc Hardcover</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451463326</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Detective</dc:subject>
+        <meta content="Secret Histories" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-26T18:37:40.524451+00:00" name="calibre:timestamp"/>
+        <meta content="From Hell With Love" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

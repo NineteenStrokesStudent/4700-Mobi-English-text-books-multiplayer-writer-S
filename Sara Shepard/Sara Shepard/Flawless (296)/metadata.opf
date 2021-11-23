@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf4c145c-b546-4be0-9a69-0217b9153dc7</dc:identifier>
+        <dc:title>Flawless</dc:title>
+        <dc:creator opf:file-as="Shepard, Sara" opf:role="aut">Sara Shepard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-15T16:52:22.270000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In the exclusive town of Rosewood, Pennsylvania, where the sweetest smiles hide the darkest secrets, four pretty little liars—Spencer, Aria, Emily, and Hanna—have been very bad girls. . . .   Spencer stole her sister's boyfriend. Aria is brokenhearted over her English teacher. Emily likes her new friend Maya . . . as much more than a friend. And Hanna's obsession with looking flawless is literally making her sick. But the most horrible secret of all is something so scandalous it could destroy their perfect little lives.   And someone named "A" is threatening to do just that.   At first they thought A was Alison, their friend who vanished three years ago . . . but then Alison turned up dead. So could A be Melissa, Spencer's ultracompetitive sister? Or Maya, who wants Emily all to herself? What about Toby, the mysterious guy who left town right after Alison went missing?   One thing's for certain: A's got the dirt to bury them all alive, and with every crumpled note, wicked IM, and vindictive text message A sends, the girls get a little closer to losing it all.</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060887346</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="Pretty Little Liars" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-06T01:26:45.463000+00:00" name="calibre:timestamp"/>
+        <meta content="Flawless" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

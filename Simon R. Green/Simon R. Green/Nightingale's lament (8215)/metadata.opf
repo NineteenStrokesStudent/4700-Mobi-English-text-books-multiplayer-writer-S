@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1052f12-890f-4b27-9d4d-2d00729fe199</dc:identifier>
+        <dc:title>Nightingale's lament</dc:title>
+        <dc:creator opf:file-as="Green, Simon R." opf:role="aut">Simon R. Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-25T12:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From&lt;/h3&gt;&lt;p&gt;John Taylor has just solved the mystery of two friends' deaths when he is called to another case. Charles Chabron wants Taylor to contact his daughter, Rossignol (French for &lt;em&gt;nightingale)&lt;/em&gt;, a young singer who has fallen under the sway of the ruthless Cavendishes, a husband-and-wife management team. Rossignol used to sing upbeat, happy songs, but now her set is so melancholy that people leave her show and commit suicide. After visiting Rossignol at the Goth club Caliban's Cavern, where she performs nightly, Taylor knows something is wrong. When he goes to the Cavendishes' management company, a pair of somnambulists beat him mercilessly, leaving him near death and with no one to turn to but Pew, an old enemy. With the help of Dead Boy, a deceased mugging victim who now fights criminals, Taylor tries to locate the Cavendishes' former protege, Sylvia Sin, and find a way to rescue Rossignol from the couple's clutches. The latest installment in Green's Nightshade series is a delight--exciting, action packed, truly suspenseful. &lt;em&gt;Kristine Huntley&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Copyright © American Library Association. All rights reserved&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;In the Nightside, the hidden heart of London where it's always 3 AM, Detective John Taylor must find an elusive singer known as The Nightingale. Her silken voice has inexplicably lured many a fan to suicide--and Taylor is determined to stop her, before the whole neighborhood falls under her trance. But to catch the swift-winged Nightingale, he'll have to hear the deadly music--and survive. &lt;/p&gt;</dc:description>
+        <dc:publisher>Ace Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780441011636</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Detective</dc:subject>
+        <meta content="Nightside" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-26T18:37:41.336594+00:00" name="calibre:timestamp"/>
+        <meta content="Nightingale's lament" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

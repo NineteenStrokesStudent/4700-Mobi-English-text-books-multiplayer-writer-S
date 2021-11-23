@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1929</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5982841-9163-4f5c-a60e-ddcd4fda1391</dc:identifier>
+        <dc:title>Remember Me?</dc:title>
+        <dc:creator opf:file-as="Kinsella, Sophie" opf:role="aut">Sophie Kinsella</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-29T15:37:53.216000+00:00</dc:date>
+        <dc:description>SUMMARY:
+When twenty-eight-year-old Lexi Smart wakes up in a London hospital, she’s in for a big surprise. Her teeth are perfect. Her body is toned. Her handbag is Vuitton. Having survived a car accident—in a Mercedes no less—Lexi has lost a big chunk of her memory, three years to be exact, and she’s about to find out just how much things have changed. Somehow Lexi went from a twenty-five-year-old working girl to a corporate big shot with a sleek new loft, a personal assistant, a carb-free diet, and a set of glamorous new friends. And who is this gorgeous husband—who also happens to be a multimillionaire? With her mind still stuck three years in reverse, Lexi greets this brave new world determined to be the person she…well, seems to be. That is, until an adorably disheveled architect drops the biggest bombshell of all. Suddenly Lexi is scrambling to catch her balance. Her new life, it turns out, comes complete with secrets, schemes, and intrigue. How on earth did all this happen? Will she ever remember? And what will happen when she does?</dc:description>
+        <dc:publisher>DELL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440242406</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-04T15:35:44.481000+00:00" name="calibre:timestamp"/>
+        <meta content="Remember Me?" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

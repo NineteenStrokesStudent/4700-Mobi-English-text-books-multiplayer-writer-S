@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5748ca42-a90c-45dc-a22c-19038df58cde</dc:identifier>
+        <dc:title>A Curtain Falls</dc:title>
+        <dc:creator opf:file-as="Pintoff, Stefanie" opf:role="aut">Stefanie Pintoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The careers of New York City detective Simon Ziele and his former partner Captain Declan Mulvaney went in remarkably different directions after the tragic death of Zielers"s fiancée in the 1904 General Slocum ferry disaster. Although both men were earmarked for much bigger things, Ziele moved to Dobson, a small town north of the city, to escape the violence, and Mulvaney buried himself even deeper, agreeing to head up the precinct in the most crime-ridden area in the city. Yet with all of the detectives and resources at Mulvaneyrs"s disposal, a particularly puzzling crime compels him to look for someone he can trust absolutely. When a chorus girl is found dead on a Broadway stage dressed in the leading ladyrs"s costume, there are no signs of violence, no cuts, no bruises'no marks at all. If pressed, the coroner would call it a suicide, but then that would make her the second girl to turn up dead in such a manner in the last few weeks. And the news of a possible serial killer would be potentially disastrous to the burgeoning theater world, not to mention the citizens of New York. Following on the heels of Stefanie Pintoffrs"s acclaimed and award-winning debut, A Curtain Fallsis a moody and evocative tale that follows Ziele and his partners as they scour the dark streets of early-twentieth-century New York in search of a true fiend.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312583965</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Simon Ziele mysteries" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-04T01:35:55.289000+00:00" name="calibre:timestamp"/>
+        <meta content="Curtain Falls, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
